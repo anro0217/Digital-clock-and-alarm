@@ -62,7 +62,6 @@ def get_total(s):
 
 def main():
     filenev = "error.mp3"  # 1 sec
-    #filenev = "what.mp3"  # 9 sec
     
     if len(sys.argv)==1: print("\nSegítségért használd a -h paramétert!\n")
     elif len(sys.argv)==2:
